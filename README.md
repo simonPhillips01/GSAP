@@ -11,3 +11,6 @@ https://cdnjs.com/libraries/ScrollMagic
 
 Web gradients
 https://webgradients.com/
+
+Highway - A Modern Javascript Transitions Manager
+https://github.com/Dogstudio/highway/
