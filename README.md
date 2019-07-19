@@ -14,3 +14,6 @@ https://webgradients.com/
 
 Highway - A Modern Javascript Transitions Manager
 https://github.com/Dogstudio/highway/
+
+Parcel Bundler
+https://github.com/parcel-bundler/parcel
